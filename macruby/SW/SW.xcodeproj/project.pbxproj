@@ -14,6 +14,7 @@
 		1D4B96BF1532685900505FBE /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1D4B96BD1532685900505FBE /* MainMenu.xib */; };
 		1D4B96C21532685900505FBE /* rb_main.rb in Resources */ = {isa = PBXBuildFile; fileRef = 1D4B96C11532685900505FBE /* rb_main.rb */; };
 		1D4B96C41532685900505FBE /* AppDelegate.rb in Resources */ = {isa = PBXBuildFile; fileRef = 1D4B96C31532685900505FBE /* AppDelegate.rb */; };
+		1D9315B2153371A000846076 /* angry_jeff.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1D9315B1153371A000846076 /* angry_jeff.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +38,7 @@
 		1D4B96BE1532685900505FBE /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		1D4B96C11532685900505FBE /* rb_main.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = rb_main.rb; sourceTree = "<group>"; };
 		1D4B96C31532685900505FBE /* AppDelegate.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = AppDelegate.rb; sourceTree = "<group>"; };
+		1D9315B1153371A000846076 /* angry_jeff.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = angry_jeff.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 		1D4B969D1532685900505FBE = {
 			isa = PBXGroup;
 			children = (
+				1D9315B1153371A000846076 /* angry_jeff.jpg */,
 				1D4B96B31532685900505FBE /* SW */,
 				1D4B96AB1532685900505FBE /* Frameworks */,
 				1D4B96A91532685900505FBE /* Products */,
@@ -188,6 +191,7 @@
 				1D4B96BF1532685900505FBE /* MainMenu.xib in Resources */,
 				1D4B96C21532685900505FBE /* rb_main.rb in Resources */,
 				1D4B96C41532685900505FBE /* AppDelegate.rb in Resources */,
+				1D9315B2153371A000846076 /* angry_jeff.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -342,6 +346,7 @@
 				1D4B96C91532685900505FBE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1D4B96CA1532685900505FBE /* Build configuration list for PBXLegacyTarget "Deployment" */ = {
 			isa = XCConfigurationList;
@@ -350,6 +355,7 @@
 				1D4B96CC1532685900505FBE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
